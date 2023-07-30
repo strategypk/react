@@ -1,0 +1,25 @@
+{
+  "name": "learnpackage",
+  "version": "1.0.0",
+  "description": "this is npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strategypk/react.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "developer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strategypk/react/issues"
+  },
+  "homepage": "https://github.com/strategypk/react#readme",
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}
